@@ -1,8 +1,10 @@
 # Vending Machine (Hard Task)
 
-This repository contains one Java console-based applications:
+This repository contains multiple Java console-based applications:
 1. **Vending Machine** (Hard Task)  
-   - Features: View items, add to cart, insert money, get change.  
+   - Features: View items, add to cart, insert money, get change.
+2. **Quiz App** (Easy Task)  
+   - Features: Answer 5 MCQs and see your score.
 
 ## How to Run
 
