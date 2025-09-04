@@ -1,4 +1,4 @@
-# Vending Machine (Hard Task)
+# ACE Programming Tasks
 
 This repository contains multiple Java console-based applications:
 1. **Vending Machine** (Hard Task)  
